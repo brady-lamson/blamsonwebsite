@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Brady Lamson</title>
+    <link>https://bradylamson.com/page/</link>
+    <description>Recent content in Pages on Brady Lamson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://bradylamson.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://bradylamson.com/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/about-me/</guid>
+      <description>My name is Brady Lamson, I’m a Junior Data Scientist breaking into the field. I graduated from the Metropolitan State University of Denver with my Bachelors of Science in Statistical Science with a minor in Computer Science. I was also the chosen Graduate Honoree for the Mathematics and Statistics Department. In my free time I do a lot of indoor rock climbing and watch way too many obscure low budget horror movies!</description>
+    </item>
+    
+    <item>
+      <title>Homework PDFs</title>
+      <link>https://bradylamson.com/homework-pdfs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/homework-pdfs/</guid>
+      <description>Below are links to all of the pdf files that I can’t be bothered to get working on the site natively. These go back to my first proper math class after becoming a math major, Trigonometry! I first started using LaTex with trig and I was completely new to anything involving code. What you’ll see here is my experience learning LaTex and math simultaneously, so the process should prove interesting.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://bradylamson.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

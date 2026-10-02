@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homework_pdfs on Brady Lamson</title>
+    <link>https://bradylamson.com/homework_pdf/</link>
+    <description>Recent content in Homework_pdfs on Brady Lamson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://bradylamson.com/homework_pdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MTH 1120 Trig Homework PDFs</title>
+      <link>https://bradylamson.com/homework_pdf/trig/triglinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/homework_pdf/trig/triglinks/</guid>
+      <description>Homework sets from Spring 2021 Applications of Sinusoids Part II
+Polar Forms of Complex Numbers</description>
+    </item>
+    
+    <item>
+      <title>MTH-3210 Probability and Statistics Homework Sets</title>
+      <link>https://bradylamson.com/homework_pdf/mth_3210/pdflinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/homework_pdf/mth_3210/pdflinks/</guid>
+      <description>MTH-3210: Probability and Statistics Homework Sets (Fall 2021) Homework Set 2
+Homework Set 3
+Homework Set 4</description>
+    </item>
+    
+  </channel>
+</rss>

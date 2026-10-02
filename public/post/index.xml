@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Brady Lamson</title>
+    <link>https://bradylamson.com/post/</link>
+    <description>Recent content in Posts on Brady Lamson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bradylamson.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leetcode - Interesting SQL Problems</title>
+      <link>https://bradylamson.com/p/leetcode-interesting-sql-problems/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/leetcode-interesting-sql-problems/</guid>
+      <description>Overview As I&amp;rsquo;ve been studying more SQL lately I figured this would be a good excuse to chronicle some of the more interesting problems. May as well get something out of doing the work.
+Leetcode Database Problem 607: Sales Person Link to the problem here
+This is the question that prompted this blog post as it was pretty fun to wrestle with.
+This problem gives us the following db schema:</description>
+    </item>
+    
+    <item>
+      <title>Polars vs. Pandas Benchmarking</title>
+      <link>https://bradylamson.com/p/polars-vs-pandas-benchmarking/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/polars-vs-pandas-benchmarking/</guid>
+      <description>Overview I’ve been itching for an excuse to learn Polars and a friend of mine gave me the idea to find a large data file and do some basic benchmarking on it and pandas. Polars claims to be a lot faster and more efficient, so let’s put it to the test eh?
+ The Data Quick overview of this data taken from the source:</description>
+    </item>
+    
+    <item>
+      <title>Fire Emblem Project: Semantic Model Architecting and Dashboarding in PowerBI</title>
+      <link>https://bradylamson.com/p/fire-emblem-project-semantic-model-architecting-and-dashboarding-in-powerbi/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/fire-emblem-project-semantic-model-architecting-and-dashboarding-in-powerbi/</guid>
+      <description>Update! It&amp;rsquo;s been a while since my last update and there&amp;rsquo;s a few reasons for that. Firstly, and primarily, is that the spiritual battle of me vs. unemployment has been a rocky one. As of this post I am nearing 4 full months on this journey and it&amp;rsquo;s worn down on me. My motivation to work on projects had dulled substantially, and I had to take time away for a mental reset to regain my ability to work.</description>
+    </item>
+    
+    <item>
+      <title>Fire Emblem Project: Dashboard Brainstorming</title>
+      <link>https://bradylamson.com/p/fire-emblem-project-dashboard-brainstorming/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/fire-emblem-project-dashboard-brainstorming/</guid>
+      <description>Okay, thanks to the work done in my previous post we now have some data to start messing around with. My goal here is to just write about some of my thoughts and ideas for an initial dashboard. Which means some whiteboard sketches and basic matplotlib visualizations to showcase where my heads at.
+Motivation Before we start it&amp;rsquo;s important I make clear what my goal here is. When playing these game the tables themselves are often all you need.</description>
+    </item>
+    
+    <item>
+      <title>Fire Emblem Project: Data Collection</title>
+      <link>https://bradylamson.com/p/fire-emblem-project-data-collection/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/fire-emblem-project-data-collection/</guid>
+      <description>Every proper data science project begins at the same point. The data. Either that data doesn&amp;rsquo;t exist at all and needs to be collected, or it exists but is somewhere inconvenient. My case is the latter.
+This project is about the video game franchise Fire Emblem. It a series of war video games built on numbers. Everything, from combat outcomes to character stats, is determined by dice rolls of varying complexity.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Deploying a Custom Inference Application to AWS Sagemaker</title>
+      <link>https://bradylamson.com/p/tutorial-deploying-custom-inference-application-to-aws-sagemaker/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/tutorial-deploying-custom-inference-application-to-aws-sagemaker/</guid>
+      <description>Overview and Motivation This write up is part 2 of 2 in a short series about fine tuning and deploying a large language model. In my previous post we fine tuned the model and learned how to use a transformers pipeline to run predictions for the named entity recognition downstream task.
+So now we have a large language model and it works, but what do we do with it? Currently it&amp;rsquo;s trapped on our machine.</description>
+    </item>
+    
+    <item>
+      <title>Named Entity Recognition: A Transformers Tutorial</title>
+      <link>https://bradylamson.com/p/named-entity-recognition-a-transformers-tutorial/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/named-entity-recognition-a-transformers-tutorial/</guid>
+      <description>Overview and Motivation Here I&amp;rsquo;ll be showing a standard workflow for fine tuning a large language model using the transformers library in Python. I&amp;rsquo;ll be fine tuning for the specific downstream task of named entity recognition, though many things in this setup will work for other tasks as well.
+There are many sources online for this topic, but I found myself extremely overwhelmed by all of the information when first learning how to do this.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Customer Churn With Tidymodels</title>
+      <link>https://bradylamson.com/p/telco-customer-churn-machine-learning/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/telco-customer-churn-machine-learning/</guid>
+      <description>Overview This report covers my process developing a machine learning model to predict customer churn, otherwise known as customer service cancellation, within the provided data set from Telco. This data set contains a variety of information, such as various services the customer signed up for, alongside account and demographic data. My general process involved some light data exploration and analysis before learning the ins and outs of two different types of models.</description>
+    </item>
+    
+    <item>
+      <title>MTH-3270 Modern Data Science with R Notes (Ch. 1, 2)</title>
+      <link>https://bradylamson.com/p/mth-3270-modern-data-science-chapters-1-and-2-notes/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-3270-modern-data-science-chapters-1-and-2-notes/</guid>
+      <description>## Warning: package &amp;#39;dplyr&amp;#39; was built under R version 4.1.3 Chapter 1: Prologue: Why Data Science 1.1 What is data science? The authors define data science simply and broadly. They “see it as the science of extracting meaningful information from data” (Baumer et al, 4).
+This book appears to have a focus more on building data acumen than focusing on programming specifically. Data acumen, according to The National Academies of Science, Engineering, and Medicine in 2018, includes a variety of capacities such as:</description>
+    </item>
+    
+    <item>
+      <title>Interactive Colorado County Map</title>
+      <link>https://bradylamson.com/p/interactive-colorado-county-map/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/interactive-colorado-county-map/</guid>
+      <description>I’m currently working on a shiny application as a personal project alongside a fellow club officer. The app we’re using uses a data-set containing information about post-secondary degrees awarded in Colorado. It contains a variety of demographic information spanning 2001 to 2017, so there’s a lot of information here.
+My current task has been an interactive map showing where all the universities are. I’ve got some cool plans for it, so I would like to showcase my progress.</description>
+    </item>
+    
+    <item>
+      <title>Fire Emblem and its Little White Lies</title>
+      <link>https://bradylamson.com/p/fire-emblem-and-its-little-white-lies/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/fire-emblem-and-its-little-white-lies/</guid>
+      <description>Fire emblem is a popular strategy video game. There are currently 16 games in the franchise and I’ve played the majority of them. For those unfamiliar you have a roster of interesting characters that act on a field with a grid. On that grid there is an enemy army, one you’re tasked with defeating. It has objectives like defeating the boss, routing the entire enemy force, or defending a point from waves of reinforcements.</description>
+    </item>
+    
+    <item>
+      <title>MTH-3210 Project 2</title>
+      <link>https://bradylamson.com/p/mth-3210-project-2/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-3210-project-2/</guid>
+      <description>Exercise 1 (10 points): The response variable value of this project was an estimation of the measurement of an angle created using a protractor. This estimation, denoted \(y_j\), was done in degrees.
+The predictor variable value, denoted \(x_j\), is the exact measurement of that angle as given by that same protractor. This protractor provided accuracy down to individual integer values of degrees.
+The subject for this assignment was Michael Runnels who was handed sheets of paper with the 18 different angles drawn on them.</description>
+    </item>
+    
+    <item>
+      <title>MTH-3210 Written Homework 9</title>
+      <link>https://bradylamson.com/p/mth-3210-written-homework-9/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-3210-written-homework-9/</guid>
+      <description>Section 12.1: 2-5, 7-8 Exercise 2: Considering the following observations create a scatter plot of \(NO_x\) emissions versus age. What appears to be the relationship between these two variables?
+engine &amp;lt;- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10) age &amp;lt;- c(0, 0, 2, 11, 7, 16, 9, 0, 12, 4) baseline &amp;lt;- c(1.72, 4.38, 4.06, 1.26, 5.31, 0.57, 3.37, 3.44, 0.74, 1.24) reform &amp;lt;- c(1.88, 5.93, 5.</description>
+    </item>
+    
+    <item>
+      <title>MTH-3210 Project 1</title>
+      <link>https://bradylamson.com/p/mth-3210-project-1/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-3210-project-1/</guid>
+      <description>Simple Random Sample Poet: Stephen Crane  Source: Poems of Stephen Crane (Selected by Gerald D. McDonald (1964)) Population: All poems written by Stephen Crane.
+Note that it is likely the selected book does not contain every single poem from this poet.
+Total number of poems: 59 poems (index starting at 1, the poem number is just the page in the book)
+  Method: Let x be a random positive integer such that:</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 12: The Mandelbrot Set, Fractals, and Newtons Method</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-12-the-mandelbrot-set-fractals-and-newtons-method/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-12-the-mandelbrot-set-fractals-and-newtons-method/</guid>
+      <description>Problem 1 Draw the fractals generated from the following IFS codes using the R code provided in the lab. Modify as needed. Be sure to use cumulative probabilities.
+Problem 1a IFS code for dragon
+# Input a number for n. # Start with n = 100 until you get the code debugged. # Then use n = 10000 or 15000 or 20000 or more if needed. # Use fig.asp = 1 for a square frame.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 11: Animations, Word Clouds, and Chloropleth Maps</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-11-animations-word-clouds-and-chloropleth-maps/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-11-animations-word-clouds-and-chloropleth-maps/</guid>
+      <description>Problem 1. Read in the built-in dataset mtcars. Call library(GGally).
+data(mtcars) Problem 1a Convert the cyl column to a factor
+mtcars$cyl &amp;lt;- base::as.factor(mtcars$cyl)  Problem 1b Use ggpairs to create a scatterplot matrix of the dataset. Use only the columns mpg, disp, hp, drat, wt and color by cylinder.
+ggpairs(mtcars, aes(col = cyl), columns = c(1, 3, 4, 5, 6))    Problem 2 For the built-in dataset iris, use ggpairs to create a scatterplot matrix with bar graphs on the diagnal.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 10: Graphing with ggplot2</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-10-graphing-with-ggplot2/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-10-graphing-with-ggplot2/</guid>
+      <description>Problem 1 [CO_COVID19] Load the dataset CO_COVID19.csv
+covid &amp;lt;- &amp;quot;CO_COVID19.csv&amp;quot; |&amp;gt; read.csv() |&amp;gt; dplyr::as_tibble() Problem 1a Draw a boxplot for the cumulative number of cases.
+ggplot(covid, aes(CumulativeCases)) + geom_boxplot(fill = &amp;quot;navy&amp;quot;) + labs(title = &amp;quot;Covid19 Cases&amp;quot;, subtitle = &amp;quot;Cumulative Cases&amp;quot;)  Problem 1b Draw a boxplot for the cumulative number of deaths.
+ggplot(covid, aes(CumulativeDeaths)) + geom_boxplot(fill = &amp;quot;violet&amp;quot;) + labs(title = &amp;quot;Covid19 Deaths&amp;quot;, subtitle = &amp;quot;Cumulative Deaths&amp;quot;)  Problem 1c Draw a scatterplot of the daily number of cases versus the daily number of deaths.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 9: Graphing with Base R</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-9-graphing-with-base-r/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-9-graphing-with-base-r/</guid>
+      <description>Problem 1. Load in the colorado covid-19 stats taken from the Colorado Department of Public Health and Environment.
+covid &amp;lt;- read.csv(&amp;quot;CO_COVID19.csv&amp;quot;) Problem 1a Compute summary statistics for the daily number of cases and the daily number of deaths.
+summary(covid$DailyCases) ## Min. 1st Qu. Median Mean 3rd Qu. Max. ## 33 324 576 1216 1541 6439 summary(covid$DailyDeaths) ## Min. 1st Qu. Median Mean 3rd Qu. Max. ## -10.00 3.00 9.00 16.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 8: Group Manipulation, User Input and Dating</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-8-group-manipulation-user-input-and-dating/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-8-group-manipulation-user-input-and-dating/</guid>
+      <description>Problem 1 The of a vector of numbers \(c(a1, a2, a3, ..., an)\) is given by
+\[\text{gmean} = (a_1 \cdot a_2 \cdot a_3 \cdot ... \cdot a_n)^{\frac{1}{n}}\]
+Problem 1a Write a user-defined function “gmean” that computes the geometric mean of a vector of numbers.
+gmean &amp;lt;- function(vector) { vec_len &amp;lt;- length(vector) ret_val &amp;lt;- prod(vector)^(1 / vec_len) ret_val }  Problem 1b Test your function on the following vectors
+pr1a &amp;lt;- c(4,9) gmean(pr1a) [1] 6 pr1b &amp;lt;- c(2,8) gmean(pr1b) [1] 4 pr1c &amp;lt;- c(5,9) gmean(pr1c) [1] 6.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 7: Factors, Lists and Data Frames</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-7-factors-lists-and-data-frames/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-7-factors-lists-and-data-frames/</guid>
+      <description>Problem 1. Problem 1a. Create a random vector of length 20000 from the numbers 0:500
+rvector_1a &amp;lt;- sample(0:500, 20000, replace=TRUE)  Problem 1b. Use the cut() function to create a factor with groups of 100. (i.e. 0 to 100, 100 to 200, etc.). Present this information in a table.
+example &amp;lt;- cut(rvector_1a, seq(0, 500, 100)) #one way to think about this within the sequence is (from=0, to=500, group size=100) table(example) example (0,100] (100,200] (200,300] (300,400] (400,500] 3968 3917 3967 4121 3993    Use tapply() to find the mean of each level in the factor</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 6: Matrices and Arrays</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-6-matrices-and-arrays/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-6-matrices-and-arrays/</guid>
+      <description>Problem 1. Create an example matrix in the three following ways:
+ Problem 1a Using matrix()
+matrix(1:5, nrow = 5, ncol=8)  [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8] [1,] 1 1 1 1 1 1 1 1 [2,] 2 2 2 2 2 2 2 2 [3,] 3 3 3 3 3 3 3 3 [4,] 4 4 4 4 4 4 4 4 [5,] 5 5 5 5 5 5 5 5   Problem 1b Using rbind()</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 5: Functions and Basic Programming</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-5-functions-and-basic-programming/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-5-functions-and-basic-programming/</guid>
+      <description>Problem 1: Write a function that computes the area of a circle.
+Calculate_Area &amp;lt;- function(r) { # This function calculates the area of a circle area &amp;lt;- pi * r^2 return(area) } radii &amp;lt;- c(5, 15, 200) Calculate_Area(radii) [1] 78.53982 706.85835 125663.70614  Problem 2: Write a function that computes the average absolute value. \(\frac{\lvert x \rvert + \lvert y \rvert}{2}\).
+Average_Absolutely &amp;lt;- function(x, y) { # This function calculates the average absolute value.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 4: Vectors Part II</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-4-vectors-part-ii/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-4-vectors-part-ii/</guid>
+      <description>Pr. 1 data &amp;lt;- c(1.2,-3.5,4.3,8.6,-5.1) summary(data)  Min. 1st Qu. Median Mean 3rd Qu. Max. -5.1 -3.5 1.2 1.1 4.3 8.6  cat(&amp;quot;The sample mean is&amp;quot;,mean(data),&amp;quot;\n&amp;quot;) The sample mean is 1.1  cat(&amp;quot;The sample standard deviation is&amp;quot;,sd(data),&amp;quot;\n&amp;quot;) The sample standard deviation is 5.614713  cat(&amp;quot;The interquartile range is&amp;quot;,IQR(data),&amp;quot;\n&amp;quot;) The interquartile range is 7.8  The mean of the data set is 1.1.
+The median of the data set is 1.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 3: Vectors</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-3-vectors/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-3-vectors/</guid>
+      <description>Pr. 1a The character string “3.1415926” can be converted to a number using the as.numeric() function: 3.1415926
+#Pr. 1a - Convert to number as.numeric(&amp;quot;3.1415926&amp;quot;) [1] 3.141593  Pr. 1b Form the vector: seq(1, 99, 3) + c(1, e, \(\pi\)). Round each element to 3 decimal places. Before I begin let me state my plan of attack. I intend to assign this vector to x and then round x to 3 decimal places.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 2: Using R as a Scientific Calculator</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-2-using-r-as-a-scientific-calculator/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-2-using-r-as-a-scientific-calculator/</guid>
+      <description>Homework 2: Using R as a Scientific Calculator
+Homework 2 Instructions:
+This is a skeleton .rmd notebook for HW 2. Fill in the code for the other problems and write a summary statement on the answers. Some Latex code is included below (see pr. 5).  Pr. 1: Use R to compute the following
+#Pr. 1a 10**2 + 3*60/8-3 [1] 119.5 \[\boxed{10^2 + \frac{3*60}{8} - 3 = 119.5}\]
+#Pr. 1b (5**3*(6-2))/(61-3+4) [1] 8.</description>
+    </item>
+    
+  </channel>
+</rss>

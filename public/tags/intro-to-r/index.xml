@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro to R on Brady Lamson</title>
+    <link>https://bradylamson.com/tags/intro-to-r/</link>
+    <description>Recent content in Intro to R on Brady Lamson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bradylamson.com/tags/intro-to-r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MTH-2520 Homework 3: Vectors</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-3-vectors/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-3-vectors/</guid>
+      <description>Pr. 1a The character string “3.1415926” can be converted to a number using the as.numeric() function: 3.1415926
+#Pr. 1a - Convert to number as.numeric(&amp;quot;3.1415926&amp;quot;) [1] 3.141593  Pr. 1b Form the vector: seq(1, 99, 3) + c(1, e, \(\pi\)). Round each element to 3 decimal places. Before I begin let me state my plan of attack. I intend to assign this vector to x and then round x to 3 decimal places.</description>
+    </item>
+    
+  </channel>
+</rss>

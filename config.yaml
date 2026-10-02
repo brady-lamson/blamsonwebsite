@@ -46,7 +46,7 @@ params:
     sidebar:
         #emoji: 🍥
         subtitle: |
-            Junior Data Scientist, rock climber and bad horror movie enthusiast. 
+            Data Scientist, horror movie and retro game enthusiast. 
             lamsonbrady@gmail.com
         
         avatar:
@@ -189,7 +189,7 @@ menu:
     main: 
         - identifier: photography
           name: Photography
-          url: https://bradylamson.mypixieset.com/
+          url: https://www.flickr.com/photos/brady-lamson/
           params:
                 newTab: True
                 icon: link

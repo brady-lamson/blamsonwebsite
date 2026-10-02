@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Brady Lamson</title>
+    <link>https://bradylamson.com/tags/r/</link>
+    <description>Recent content in R on Brady Lamson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bradylamson.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MTH-3270 Modern Data Science with R Notes (Ch. 1, 2)</title>
+      <link>https://bradylamson.com/p/mth-3270-modern-data-science-chapters-1-and-2-notes/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-3270-modern-data-science-chapters-1-and-2-notes/</guid>
+      <description>## Warning: package &amp;#39;dplyr&amp;#39; was built under R version 4.1.3 Chapter 1: Prologue: Why Data Science 1.1 What is data science? The authors define data science simply and broadly. They “see it as the science of extracting meaningful information from data” (Baumer et al, 4).
+This book appears to have a focus more on building data acumen than focusing on programming specifically. Data acumen, according to The National Academies of Science, Engineering, and Medicine in 2018, includes a variety of capacities such as:</description>
+    </item>
+    
+    <item>
+      <title>Interactive Colorado County Map</title>
+      <link>https://bradylamson.com/p/interactive-colorado-county-map/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/interactive-colorado-county-map/</guid>
+      <description>I’m currently working on a shiny application as a personal project alongside a fellow club officer. The app we’re using uses a data-set containing information about post-secondary degrees awarded in Colorado. It contains a variety of demographic information spanning 2001 to 2017, so there’s a lot of information here.
+My current task has been an interactive map showing where all the universities are. I’ve got some cool plans for it, so I would like to showcase my progress.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 4: Vectors Part II</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-4-vectors-part-ii/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-4-vectors-part-ii/</guid>
+      <description>Pr. 1 data &amp;lt;- c(1.2,-3.5,4.3,8.6,-5.1) summary(data)  Min. 1st Qu. Median Mean 3rd Qu. Max. -5.1 -3.5 1.2 1.1 4.3 8.6  cat(&amp;quot;The sample mean is&amp;quot;,mean(data),&amp;quot;\n&amp;quot;) The sample mean is 1.1  cat(&amp;quot;The sample standard deviation is&amp;quot;,sd(data),&amp;quot;\n&amp;quot;) The sample standard deviation is 5.614713  cat(&amp;quot;The interquartile range is&amp;quot;,IQR(data),&amp;quot;\n&amp;quot;) The interquartile range is 7.8  The mean of the data set is 1.1.
+The median of the data set is 1.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 3: Vectors</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-3-vectors/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-3-vectors/</guid>
+      <description>Pr. 1a The character string “3.1415926” can be converted to a number using the as.numeric() function: 3.1415926
+#Pr. 1a - Convert to number as.numeric(&amp;quot;3.1415926&amp;quot;) [1] 3.141593  Pr. 1b Form the vector: seq(1, 99, 3) + c(1, e, \(\pi\)). Round each element to 3 decimal places. Before I begin let me state my plan of attack. I intend to assign this vector to x and then round x to 3 decimal places.</description>
+    </item>
+    
+    <item>
+      <title>MTH-2520 Homework 2: Using R as a Scientific Calculator</title>
+      <link>https://bradylamson.com/p/mth-2520-homework-2-using-r-as-a-scientific-calculator/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradylamson.com/p/mth-2520-homework-2-using-r-as-a-scientific-calculator/</guid>
+      <description>Homework 2: Using R as a Scientific Calculator
+Homework 2 Instructions:
+This is a skeleton .rmd notebook for HW 2. Fill in the code for the other problems and write a summary statement on the answers. Some Latex code is included below (see pr. 5).  Pr. 1: Use R to compute the following
+#Pr. 1a 10**2 + 3*60/8-3 [1] 119.5 \[\boxed{10^2 + \frac{3*60}{8} - 3 = 119.5}\]
+#Pr. 1b (5**3*(6-2))/(61-3+4) [1] 8.</description>
+    </item>
+    
+  </channel>
+</rss>
